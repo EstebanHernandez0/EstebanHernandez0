@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="100"/>
+</div>
+
 <h1 align="center">Hi 👋, I'm Esteban Hernandez</h1>
 <h3 align="center">A puzzle solver in Data Science</h3>
 
